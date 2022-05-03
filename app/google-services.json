@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "155089856215",
+    "firebase_url": "https://api-persona-a4808-default-rtdb.firebaseio.com",
+    "project_id": "api-persona-a4808",
+    "storage_bucket": "api-persona-a4808.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:155089856215:android:48a62a29c559a731097292",
+        "android_client_info": {
+          "package_name": "com.example.apipersona"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "155089856215-89b678nt013gesi15d3orlu1blbv301u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDi-aCBiyuJmZzU8ovzXYXJTb_myFZiVDs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "155089856215-89b678nt013gesi15d3orlu1blbv301u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
